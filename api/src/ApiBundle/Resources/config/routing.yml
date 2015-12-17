@@ -1,0 +1,4 @@
+calendars:
+    type:     rest
+    resource: ApiBundle\Controller\CalendarController
+    prefix:   /api/v1/
